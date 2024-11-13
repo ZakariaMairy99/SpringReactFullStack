@@ -36,16 +36,17 @@ This project is a **full-stack application** for employee management, built with
 ## Screenshots
 
 ### User Interface
-![alt text](TDocuments\interface.png)
+![User Interface](images/interface.png)
 
 ### Add Employee Interface
-![alt text](TDocuments\add.png)
+![Add Employee Interface](images/add.png)
 
 ### MySQL Database
-![alt text](TDocuments\BD.png)
+![MySQL Database](images/BD.png)
 
 ### Project Architecture
-![alt text](TDocuments\architect.png)
+![Project Architecture](images/architect.png)
+
 
 ## License
 This project is licensed under ZMairy License - see the LICENSE file for details.
